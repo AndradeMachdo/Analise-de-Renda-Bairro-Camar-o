@@ -165,4 +165,4 @@ python src/iat_calculator.py
 
 > *"O lugar certo não é o melhor bairro da cidade. É o bairro certo para o seu negócio."*
 
-📬 contato@locus.com.br · São Gonçalo, RJ · 2026
+📬 andradejoaomachado@Outlook.com · São Gonçalo, RJ · 2026
